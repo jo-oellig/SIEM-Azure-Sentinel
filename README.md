@@ -1,4 +1,3 @@
-# Azure Sentinel Lab
 <h1>Azure Sentinel Lab</h1>
 
 <h2>Description</h2>
