@@ -1,37 +1,42 @@
-<h1>Azure Sentinel Lab</h1>
+<h1>Microsoft Sentinel Lab</h1>
 
 <h2>Description</h2>
-In this project, I will create a live virtual machine using Azure and use the VM as a honeypot to attract attackers. I will set up a SIEM system using Azure Sentinel and use it to observe live attacks on the honeypot from all over the world. Then, I will use a custom PowerShell script to find the locations where the attacks are coming from and I will plot them on the Azure Sentinel map.
+In this project, I will create a live virtual machine using Azure and use the VM as a honeypot to attract attackers. I will set up a SIEM system using Microsoft Sentinel and use it to observe live attacks on the honeypot from all over the world. Then, I will use a custom PowerShell script to find the locations where the attacks are coming from and I will plot them on the Microsoft Sentinel map.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Azure</b>
+- <b>Microsoft Azure</b>
+- <b>Microsoft Sentinel</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Windows Server 2019</b>
+- <b>Windows 10 Pro</b> (22H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating users with PowerShell <br/>
-<img src="https://imgur.com/Fif9sxI.png" height="80%" width="80%" alt="Active Directory home lab"/>
+Creating the virtual machine <br/>
+<img src="https://imgur.com/UZe1TZV.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
 
 <p align="center">
-Creating Windows 10 host <br/>
-<img src="https://imgur.com/J4PZXPh.png" height="80%" width="80%" alt="Active Directory home lab"/>
+Creating inbound security rule that allows all inbound traffic <br/>
+<img src="https://imgur.com/qsXPNTk.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
   
 <p align="center">
-Enabling shared clipboard, drag n drop <br/>
-<img src="https://imgur.com/TJLVrDF.png" height="80%" width="80%" alt="Active Directory home lab"/>
+Creating log analytics workspace <br/>
+<img src="https://imgur.com/XWRkf8J.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
   
 <p align="center">
-Connecting to the internal network <br/>
-<img src="https://imgur.com/6JGdvuT.png" height="80%" width="80%" alt="Active Directory home lab"/>
+Enable gathering VM logs in Microsoft Defender for Cloud <br/>
+<img src="https://imgur.com/DFrkfVj.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
+<img src="https://imgur.com/R3wrB6q.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
+
+<p align="center">
+Connecting log analytics to virtual machine <br/>
+<img src="https://imgur.com/KmKlQGK.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
 <br />
 <br />
 
