@@ -37,6 +37,11 @@ Enable gathering VM logs in Microsoft Defender for Cloud <br/>
 <p align="center">
 Connecting log analytics to virtual machine <br/>
 <img src="https://imgur.com/KmKlQGK.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
+
+<p align="center">
+Setting up Microsoft Sentinel <br/>
+<img src="https://imgur.com/MbkigId.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
+
 <br />
 <br />
 
