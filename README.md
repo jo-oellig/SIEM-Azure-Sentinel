@@ -80,8 +80,8 @@ Creating workbook using the same query <br/>
 <img src="https://imgur.com/T8pGrjO.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
 
 <p align="center">
-Visualizing the workbook as a map <br/>
-<img src="https://imgur.com/b6P5PSo.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
+Visualizing brute-forcce attack data on a world map <br/>
+<img src="https://imgur.com/CWyFgdz.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
 
 <br/>
 
