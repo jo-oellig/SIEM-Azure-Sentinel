@@ -22,7 +22,7 @@ Creating the virtual machine <br/>
 <img src="https://imgur.com/UZe1TZV.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
 
 <p align="center">
-Creating inbound security rule that allows all inbound traffic <br/>
+Creating inbound security rule that allows all inbound traffic - this will attract attackers <br/>
 <img src="https://imgur.com/qsXPNTk.png" height="80%" width="80%" alt="Microsoft Sentinel Lab"/>
   
 <p align="center">
